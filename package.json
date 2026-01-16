@@ -1,6 +1,6 @@
 {
   "name": "react-native-simple-sound-playback",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple and straight forward react-native library for playback of sound clips or chimes.",
   "main": "./lib/module/index.js",
   "types": "./lib/typescript/src/index.d.ts",
@@ -51,6 +51,8 @@
     "notification",
     "library",
     "simple sound playback",
+    "simple audio playback",
+    "library for simple sound playback",
     "react-native-sound",
     "react-native-audio"
   ],
