@@ -43,7 +43,16 @@
   "keywords": [
     "react-native",
     "ios",
-    "android"
+    "android",
+    "sound",
+    "playback",
+    "audio",
+    "chime",
+    "notification",
+    "library",
+    "simple sound playback",
+    "react-native-sound",
+    "react-native-audio"
   ],
   "repository": {
     "type": "git",
